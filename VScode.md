@@ -23,8 +23,12 @@
 
 * [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 
+* [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
 ## Extenciones React
 * [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+  
+* [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=rodrigovallades.es7-react-js-snippets)
 
 * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
