@@ -1,4 +1,6 @@
 ## Extenciones Basicas
+* [CODEIUM](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium)
+
 * [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
 
 * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
